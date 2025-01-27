@@ -1,0 +1,1 @@
+tests/test_pizzeria.py::TestPizzeria::test_open_page: PASSED
