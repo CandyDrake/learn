@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1486ba6d-e715-4428-86b7-049adf42e715" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../artifact.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../browsers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_pizzeria.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/.gitlab-ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/settings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/settings/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/settings/api/selenoid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/settings/browsers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/settings/browsers/chrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/settings/browsers/firefox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/settings/browsers/ibrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/settings/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/settings/page/components/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/settings/page/elements/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/settings/page/page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/settings/page/vk/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/settings/page/vk/authorize_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/test/pizzeria/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/test/pizzeria/artifact.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/utils/constants_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/utils/logger/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/utils/logger/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module_6/utils/logger/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenoid_windows_amd64.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/artifact.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/artifact.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_filter.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2sCh0XBuF9NWnEBXyrpvtwfGqi6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/tanai/PycharmProjects/autotesty_python_advanced/module_1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1486ba6d-e715-4428-86b7-049adf42e715" name="Changes" comment="" />
+      <created>1737965241548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737965241548</updated>
+    </task>
+    <servers />
+  </component>
+</project>
